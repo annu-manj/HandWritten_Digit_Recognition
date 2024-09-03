@@ -1,7 +1,7 @@
 # Digit Recognition using SVM  
 
 
-This project is focused on digit recognition using Support Vector Machines (SVM), a powerful machine learning technique. The goal is to classify handwritten digits, which are typically represented as images, into their corresponding numeric labels (0-9). Here's a technical breakdown of how the project is structured:
+This project is focused on digit recognition using Support Vector Machines (SVM). The goal is to classify handwritten digits, which are typically represented as images, into their corresponding numeric labels (0-9). Here's a technical breakdown of how the project is structured:
 
 
 ### Data Preprocessing:  
